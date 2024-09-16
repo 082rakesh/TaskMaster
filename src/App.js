@@ -4,7 +4,6 @@ import HeaderComponent from './components/HeaderComponent';
 import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom';
 import { createRoot } from 'react-dom/client';
 import Error from './components/Error/Error';
-import { Provider } from 'react-redux';
 import { RouterPathChildren } from './Router';
 
 const App = () => {
