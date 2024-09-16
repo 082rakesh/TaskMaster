@@ -1,0 +1,812 @@
+ [
+                                      {
+                                          "info": {
+                                              "id": "43836",
+                                              "name": "McDonald's",
+                                              "cloudinaryImageId": "03501c33ecb3a3105124441e541e6fe4",
+                                              "locality": "MG Road",
+                                              "areaName": "Ashok Nagar",
+                                              "costForTwo": "₹400 for two",
+                                              "cuisines": [
+                                                  "Burgers",
+                                                  "Beverages",
+                                                  "Cafe",
+                                                  "Desserts"
+                                              ],
+                                              "avgRating": 4.3,
+                                              "parentId": "630",
+                                              "avgRatingString": "4.3",
+                                              "totalRatingsString": "10K+",
+                                              "sla": {
+                                                  "deliveryTime": 24,
+                                                  "lastMileTravel": 2.6,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "20-25 mins",
+                                                  "lastMileTravelString": "2.6 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-19 02:45:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {
+                                                  "textExtendedBadges": [
+                                                      {
+                                                          "iconId": "guiltfree/GF_Logo_android_3x",
+                                                          "shortDescription": "options available",
+                                                          "fontColor": "#7E808C"
+                                                      }
+                                                  ]
+                                              },
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {
+                                                          "badgeObject": [
+                                                              {
+                                                                  "attributes": {
+                                                                      "description": "",
+                                                                      "fontColor": "#7E808C",
+                                                                      "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                      "shortDescription": "options available"
+                                                                  }
+                                                              }
+                                                          ]
+                                                      }
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "30% OFF",
+                                                  "subHeader": "UPTO ₹75"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/mcdonalds-mg-road-ashok-nagar-bangalore-43836",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "77949",
+                                              "name": "Burger King",
+                                              "cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+                                              "locality": "Gandhi Bazar",
+                                              "areaName": "Basavanagudi",
+                                              "costForTwo": "₹350 for two",
+                                              "cuisines": [
+                                                  "Burgers",
+                                                  "American"
+                                              ],
+                                              "avgRating": 4.2,
+                                              "parentId": "166",
+                                              "avgRatingString": "4.2",
+                                              "totalRatingsString": "10K+",
+                                              "sla": {
+                                                  "deliveryTime": 26,
+                                                  "lastMileTravel": 3,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "25-30 mins",
+                                                  "lastMileTravelString": "3.0 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-19 05:00:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {},
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {}
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "60% OFF",
+                                                  "subHeader": "UPTO ₹120"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/burger-king-gandhi-bazar-basavanagudi-bangalore-77949",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "124178",
+                                              "name": "Starbucks Coffee",
+                                              "cloudinaryImageId": "2418209798927d733a50f5d2ebcc2aee",
+                                              "locality": "Ashok Nagar",
+                                              "areaName": "Lavelle Road",
+                                              "costForTwo": "₹400 for two",
+                                              "cuisines": [
+                                                  "Beverages",
+                                                  "Cafe",
+                                                  "Snacks",
+                                                  "Desserts",
+                                                  "Bakery",
+                                                  "Ice Cream"
+                                              ],
+                                              "avgRating": 4.3,
+                                              "parentId": "195515",
+                                              "avgRatingString": "4.3",
+                                              "totalRatingsString": "1K+",
+                                              "sla": {
+                                                  "deliveryTime": 24,
+                                                  "lastMileTravel": 2.5,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "20-25 mins",
+                                                  "lastMileTravelString": "2.5 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-18 23:52:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {
+                                                  "textExtendedBadges": [
+                                                      {
+                                                          "iconId": "guiltfree/GF_Logo_android_3x",
+                                                          "shortDescription": "options available",
+                                                          "fontColor": "#7E808C"
+                                                      }
+                                                  ]
+                                              },
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {
+                                                          "badgeObject": [
+                                                              {
+                                                                  "attributes": {
+                                                                      "description": "",
+                                                                      "fontColor": "#7E808C",
+                                                                      "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                      "shortDescription": "options available"
+                                                                  }
+                                                              }
+                                                          ]
+                                                      }
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "20% OFF",
+                                                  "subHeader": "UPTO ₹50"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/starbucks-coffee-ashok-nagar-lavelle-road-bangalore-124178",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "17301",
+                                              "name": "KFC",
+                                              "cloudinaryImageId": "f01666ac73626461d7455d9c24005cd4",
+                                              "locality": "Vani Vilas Road",
+                                              "areaName": "Basavanagudi",
+                                              "costForTwo": "₹400 for two",
+                                              "cuisines": [
+                                                  "Burgers",
+                                                  "Biryani",
+                                                  "American",
+                                                  "Snacks",
+                                                  "Fast Food"
+                                              ],
+                                              "avgRating": 4.2,
+                                              "parentId": "547",
+                                              "avgRatingString": "4.2",
+                                              "totalRatingsString": "10K+",
+                                              "sla": {
+                                                  "deliveryTime": 25,
+                                                  "lastMileTravel": 3,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "20-25 mins",
+                                                  "lastMileTravelString": "3.0 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-19 02:00:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {},
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {}
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "20% OFF",
+                                                  "subHeader": "UPTO ₹50"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/kfc-vani-vilas-road-basavanagudi-bangalore-17301",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "23846",
+                                              "name": "Domino's Pizza",
+                                              "cloudinaryImageId": "aadw5xxrjtv6xxhtscai",
+                                              "locality": "Rehinus Street",
+                                              "areaName": "Richmond Town",
+                                              "costForTwo": "₹400 for two",
+                                              "cuisines": [
+                                                  "Pizzas",
+                                                  "Italian",
+                                                  "Pastas",
+                                                  "Desserts"
+                                              ],
+                                              "avgRating": 4.4,
+                                              "parentId": "2456",
+                                              "avgRatingString": "4.4",
+                                              "totalRatingsString": "10K+",
+                                              "sla": {
+                                                  "deliveryTime": 25,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "25 mins",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-19 02:59:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {},
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {}
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "40% OFF",
+                                                  "subHeader": "UPTO ₹80"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/dominos-pizza-rehinus-street-richmond-town-bangalore-23846",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "69876",
+                                              "name": "Subway",
+                                              "cloudinaryImageId": "63178e3e64d503a479f2a2048a474552",
+                                              "locality": "UB City",
+                                              "areaName": "Central Bangalore",
+                                              "costForTwo": "₹350 for two",
+                                              "cuisines": [
+                                                  "Salads",
+                                                  "Snacks",
+                                                  "Desserts",
+                                                  "Beverages"
+                                              ],
+                                              "avgRating": 4.2,
+                                              "parentId": "2",
+                                              "avgRatingString": "4.2",
+                                              "totalRatingsString": "1K+",
+                                              "sla": {
+                                                  "deliveryTime": 44,
+                                                  "lastMileTravel": 2.6,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "40-45 mins",
+                                                  "lastMileTravelString": "2.6 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-18 23:00:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {
+                                                  "textExtendedBadges": [
+                                                      {
+                                                          "iconId": "guiltfree/GF_Logo_android_3x",
+                                                          "shortDescription": "options available",
+                                                          "fontColor": "#7E808C"
+                                                      }
+                                                  ]
+                                              },
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {
+                                                          "badgeObject": [
+                                                              {
+                                                                  "attributes": {
+                                                                      "description": "",
+                                                                      "fontColor": "#7E808C",
+                                                                      "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                      "shortDescription": "options available"
+                                                                  }
+                                                              }
+                                                          ]
+                                                      }
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "30% OFF",
+                                                  "subHeader": "UPTO ₹75"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/subway-ub-city-central-bangalore-bangalore-69876",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "393984",
+                                              "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+                                              "cloudinaryImageId": "tha6ydiqy1td1e4yrx6u",
+                                              "locality": "Jayanagar",
+                                              "areaName": "Jayanagar",
+                                              "costForTwo": "₹300 for two",
+                                              "cuisines": [
+                                                  "Desserts",
+                                                  "Ice Cream",
+                                                  "Ice Cream Cakes"
+                                              ],
+                                              "avgRating": 4.6,
+                                              "veg": true,
+                                              "parentId": "582",
+                                              "avgRatingString": "4.6",
+                                              "totalRatingsString": "100+",
+                                              "sla": {
+                                                  "deliveryTime": 29,
+                                                  "lastMileTravel": 5,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "25-30 mins",
+                                                  "lastMileTravelString": "5.0 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-18 21:30:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {
+                                                  "imageBadges": [
+                                                      {
+                                                          "imageId": "v1695133679/badges/Pure_Veg111.png",
+                                                          "description": "pureveg"
+                                                      }
+                                                  ]
+                                              },
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {
+                                                          "badgeObject": [
+                                                              {
+                                                                  "attributes": {
+                                                                      "description": "pureveg",
+                                                                      "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                                                  }
+                                                              }
+                                                          ]
+                                                      },
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {}
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "50% OFF",
+                                                  "subHeader": "UPTO ₹100"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/kwality-walls-frozen-dessert-and-ice-cream-shop-jayanagar-bangalore-393984",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "263485",
+                                              "name": "Chaayos Chai+Snacks=Relax",
+                                              "cloudinaryImageId": "cace805a6ba74137571d0f7ac92302b1",
+                                              "locality": "Kormangala 8th Block",
+                                              "areaName": "Kormangala",
+                                              "costForTwo": "₹250 for two",
+                                              "cuisines": [
+                                                  "Bakery",
+                                                  "Beverages",
+                                                  "Chaat",
+                                                  "Desserts",
+                                                  "Home Food",
+                                                  "Italian",
+                                                  "Maharashtrian",
+                                                  "Snacks",
+                                                  "Street Food",
+                                                  "Sweets"
+                                              ],
+                                              "avgRating": 4.5,
+                                              "parentId": "281782",
+                                              "avgRatingString": "4.5",
+                                              "totalRatingsString": "1K+",
+                                              "sla": {
+                                                  "deliveryTime": 33,
+                                                  "lastMileTravel": 5.7,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "30-35 mins",
+                                                  "lastMileTravelString": "5.7 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-19 01:00:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {
+                                                  "textExtendedBadges": [
+                                                      {
+                                                          "iconId": "guiltfree/GF_Logo_android_3x",
+                                                          "shortDescription": "options available",
+                                                          "fontColor": "#7E808C"
+                                                      }
+                                                  ]
+                                              },
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {
+                                                          "badgeObject": [
+                                                              {
+                                                                  "attributes": {
+                                                                      "description": "",
+                                                                      "fontColor": "#7E808C",
+                                                                      "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                      "shortDescription": "options available"
+                                                                  }
+                                                              }
+                                                          ]
+                                                      }
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "60% OFF",
+                                                  "subHeader": "UPTO ₹120"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/chaayos-chai-snacks-relax-8th-block-kormangala-bangalore-263485",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "312660",
+                                              "name": "Samosa Party",
+                                              "cloudinaryImageId": "ixgxvfu6ggvw1w1awgr1",
+                                              "locality": "Brigade Road",
+                                              "areaName": "Brigade Road",
+                                              "costForTwo": "₹150 for two",
+                                              "cuisines": [
+                                                  "Fast Food",
+                                                  "Snacks",
+                                                  "Beverages",
+                                                  "Chaat",
+                                                  "North Indian",
+                                                  "Street Food",
+                                                  "Sweets",
+                                                  "Desserts",
+                                                  "Punjabi",
+                                                  "Bakery"
+                                              ],
+                                              "avgRating": 4.6,
+                                              "parentId": "6364",
+                                              "avgRatingString": "4.6",
+                                              "totalRatingsString": "1K+",
+                                              "sla": {
+                                                  "deliveryTime": 32,
+                                                  "lastMileTravel": 3.6,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "30-35 mins",
+                                                  "lastMileTravelString": "3.6 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-18 22:00:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {
+                                                  "textExtendedBadges": [
+                                                      {
+                                                          "iconId": "guiltfree/GF_Logo_android_3x",
+                                                          "shortDescription": "options available",
+                                                          "fontColor": "#7E808C"
+                                                      }
+                                                  ]
+                                              },
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {
+                                                          "badgeObject": [
+                                                              {
+                                                                  "attributes": {
+                                                                      "description": "",
+                                                                      "fontColor": "#7E808C",
+                                                                      "iconId": "guiltfree/GF_Logo_android_3x",
+                                                                      "shortDescription": "options available"
+                                                                  }
+                                                              }
+                                                          ]
+                                                      }
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "60% OFF",
+                                                  "subHeader": "UPTO ₹120"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/samosa-party-brigade-road-bangalore-312660",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "65797",
+                                              "name": "Leon's - Burgers & Wings (Leon Grill)",
+                                              "cloudinaryImageId": "b2edbc28b7b8219d6e0a9c049ce06658",
+                                              "locality": "Koramangala",
+                                              "areaName": "Koramangala",
+                                              "costForTwo": "₹300 for two",
+                                              "cuisines": [
+                                                  "American",
+                                                  "Snacks",
+                                                  "Turkish",
+                                                  "Portuguese",
+                                                  "Continental"
+                                              ],
+                                              "avgRating": 4.4,
+                                              "parentId": "371281",
+                                              "avgRatingString": "4.4",
+                                              "totalRatingsString": "10K+",
+                                              "sla": {
+                                                  "deliveryTime": 35,
+                                                  "lastMileTravel": 6.1,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "35-40 mins",
+                                                  "lastMileTravelString": "6.1 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-19 04:00:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {},
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {}
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "₹125 OFF",
+                                                  "subHeader": "ABOVE ₹249",
+                                                  "discountTag": "FLAT DEAL"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/leons-burgers-and-wings-leon-grill-koramangala-bangalore-65797",
+                                              "type": "WEBLINK"
+                                          }
+                                      },
+                                      {
+                                          "info": {
+                                              "id": "22037",
+                                              "name": "Wow! Momo",
+                                              "cloudinaryImageId": "5a148e63e9c54942e37627da1aa156be",
+                                              "locality": "Brigade Road",
+                                              "areaName": "Brigade Road",
+                                              "costForTwo": "₹250 for two",
+                                              "cuisines": [
+                                                  "Tibetan",
+                                                  "Healthy Food",
+                                                  "Asian",
+                                                  "Chinese",
+                                                  "Snacks",
+                                                  "Continental",
+                                                  "Desserts",
+                                                  "Beverages"
+                                              ],
+                                              "avgRating": 4.3,
+                                              "parentId": "1776",
+                                              "avgRatingString": "4.3",
+                                              "totalRatingsString": "5K+",
+                                              "sla": {
+                                                  "deliveryTime": 33,
+                                                  "lastMileTravel": 3.6,
+                                                  "serviceability": "SERVICEABLE",
+                                                  "slaString": "30-35 mins",
+                                                  "lastMileTravelString": "3.6 km",
+                                                  "iconType": "ICON_TYPE_EMPTY"
+                                              },
+                                              "availability": {
+                                                  "nextCloseTime": "2024-02-19 01:00:00",
+                                                  "opened": true
+                                              },
+                                              "badges": {},
+                                              "isOpen": true,
+                                              "type": "F",
+                                              "badgesV2": {
+                                                  "entityBadges": {
+                                                      "imageBased": {},
+                                                      "textBased": {},
+                                                      "textExtendedBadges": {}
+                                                  }
+                                              },
+                                              "aggregatedDiscountInfoV3": {
+                                                  "header": "ITEMS",
+                                                  "subHeader": "AT ₹99"
+                                              },
+                                              "differentiatedUi": {
+                                                  "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                                                  "differentiatedUiMediaDetails": {
+                                                      "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                                                      "lottie": {},
+                                                      "video": {}
+                                                  }
+                                              },
+                                              "reviewsSummary": {},
+                                              "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                                              "restaurantOfferPresentationInfo": {}
+                                          },
+                                          "analytics": {},
+                                          "cta": {
+                                              "link": "https://www.swiggy.com/restaurants/wow-momo-brigade-road-bangalore-22037",
+                                              "type": "WEBLINK"
+                                          }
+                                      }]
+  
